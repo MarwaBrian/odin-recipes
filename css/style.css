@@ -1,0 +1,16 @@
+.container-1{
+    display: flex;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one{
+    background-color: chartreuse;
+    border: 0 solid rebeccapurple;
+}
+.box-two{
+    background-color: cyan;
+    border: 0 solid orange;
+}
